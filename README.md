@@ -46,20 +46,15 @@
     - 小地图
 - [x] [very many players](https://modrinth.com/mod/vmp-fabric)
     - 优化
-- [x] [InventoryProfilesNext](https://modrinth.com/mod/inventory-profiles-next)
-    - 一键整理
 - [x] [chesttracker](https://modrinth.com/mod/chest-tracker)
     - 查找容纳对应物品的箱子
-- [x] [seedcrackerX](https://github.com/19MisterX98/SeedcrackerX)
+- [ ] [seedcrackerX](https://github.com/19MisterX98/SeedcrackerX)
     - 种子破解
 - [x] [XaeroPlus](https://modrinth.com/mod/xaeroplus)
     -地图加强
 - [x] [PresenceFootsteps](https://modrinth.com/mod/presence-footsteps)
-- [x] [double hotbar](https://www.curseforge.com/minecraft/mc-mods/double-hotbar)
 - [x] [ferritecore](https://modrinth.com/mod/ferrite-core)
     - 优化
-- [x] [InvMove](https://modrinth.com/mod/invmove)
-    - 打开背包也能移动
 - [x] [easiervillagertrading](https://modrinth.com/mod/easiervillagertrading)
 - [x] [MasaGadget](https://modrinth.com/mod/masa-gadget)
 - [x] [tweakermore](https://modrinth.com/mod/tweakermore)
@@ -68,19 +63,19 @@
 - [x] [reden is what we made](https://github.com/zly2006/reden-is-what-we-made)
 - [x] [inventorytabs](https://modrinth.com/mod/inventory-tabs-updated)
 - [x] [itemswapper](https://modrinth.com/plugin/itemswapper)
-- [x] [emi loot](https://modrinth.com/mod/emi-loot)
 - [x] [jsmacros](https://www.curseforge.com/minecraft/mc-mods/jsmacros)
+- [x] [librarian trade finder](https://modrinth.com/mod/librarian-trade-finder)
 ## 主要依赖列表
 - [x] [fabric-api](https://modrinth.com/mod/fabric-api)
     - 必要api
 - [x] [malilib](https://www.curseforge.com/minecraft/mc-mods/malilib)
     - masa全家桶必要api
 - [x] [kotlin](https://modrinth.com/mod/fabric-language-kotlin)
-- [x] [libIPN](https://modrinth.com/mod/libipn)
 - [x] [modmenu](https://modrinth.com/mod/modmenu)
 - [x] [cloth-config](https://modrinth.com/mod/cloth-config)
 - [x] [magiclib](https://modrinth.com/mod/magiclib)
 - [x] [CreativeCore](https://modrinth.com/mod/creativecore)
+- [x] [syncmatica](https://modrinth.com/mod/syncmatica)
 ## 模组间关系图
 以下是模组之间的依赖与冲突关系图，它们显示了各个模组的相互关系和依赖:
 ```
@@ -94,10 +89,6 @@ minihud --> malilib
 notenoughanimations --> firstperson
 carpet-extra --> carpet
 libIPN --> kotlin
-InventoryProfilesNext --> kotlin
-InventoryProfilesNext --> libIPN
-InventoryProfilesNext --> modmenu
-InventoryProfilesNext --> fabric-api
 chesttracker --> cloth-config
 emi-loot --> emi
 emitrades --> emi
