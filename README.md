@@ -65,6 +65,7 @@
 - [x] [itemswapper](https://modrinth.com/plugin/itemswapper)
 - [x] [jsmacros](https://www.curseforge.com/minecraft/mc-mods/jsmacros)
 - [x] [librarian trade finder](https://modrinth.com/mod/librarian-trade-finder)
+- [x] [gugle carpet addtion](https://modrinth.com/mod/gca)
 ## 主要依赖列表
 - [x] [fabric-api](https://modrinth.com/mod/fabric-api)
     - 必要api
