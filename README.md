@@ -10,7 +10,7 @@
 - [x] [sodium](https://modrinth.com/mod/sodium)
     - 游戏主要渲染算法优化
     - 优化
-- [ ] [DistantHorizons](https://modrinth.com/mod/distanthorizons)
+- [x] [DistantHorizons](https://modrinth.com/mod/distanthorizons)
     - 超远视距,与iris开光影时冲突
     - 优化
 - [x] [Entity Culling](https://modrinth.com/mod/entityculling)
@@ -77,6 +77,7 @@
 - [x] [magiclib](https://modrinth.com/mod/magiclib)
 - [x] [CreativeCore](https://modrinth.com/mod/creativecore)
 - [x] [syncmatica](https://modrinth.com/mod/syncmatica)
+- [x] [indium](https://modrinth.com/mod/indium)
 ## 模组间关系图
 以下是模组之间的依赖与冲突关系图，它们显示了各个模组的相互关系和依赖:
 ```
@@ -102,4 +103,5 @@ emi-loot --> emi
 itemswapper --> fabric-api
 inventorytabs --> fabric-api
 inventorytabs --> modmenu
+distanthorizons --> indium
 ```
